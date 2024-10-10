@@ -1,7 +1,7 @@
 
 # Language Classification with Naive Bayes and MLflow
 
-This project classifies written text into different languages using a **Naive Bayes** classifier with the help of **scikit-learn** and **MLflow** for tracking experiments. The model is trained on preprocessed text data and uses either word-level or character-level n-grams for vectorization, depending on the language being processed.
+This project classifies written text into 14 languages using a **Naive Bayes** classifier with the help of **scikit-learn** and **MLflow** for tracking experiments. The model is trained on preprocessed text data and uses either word-level or character-level n-grams for vectorization, depending on the language being processed.
 
 ## Features
 - **MLflow Integration**: Automatically tracks parameters, metrics, and model artifacts.
